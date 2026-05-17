@@ -1,9 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
 # Git LFS Configuration for Unreal Engine 5 Projects
 # This file ensures large binary files are tracked with Git LFS instead of being stored in Git history
 # Install Git LFS first: https://git-lfs.github.com/
+
+# Auto detect text files and perform LF normalization
+* text=auto
 
 # ============================================
 # UNREAL ENGINE BINARY FILES
