@@ -1416,3 +1416,315 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.17-13.08.30:325][ 13]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 323.937866
 [2026.05.17-13.08.31:659][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.17-13.08.31:659][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 324.938049, Update Interval: 313.281036
+[2026.05.17-13.10.20:385][343]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.05.17-13.11.39:477][ 42]LogFab: Display: Logging in using persist
+[2026.05.17-13.11.39:993][ 61]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 330...23b Access[Expires: 2026.05.17-15.11.39 Remaining: 7200.74] Refresh[Expires: 2026-11-13T13:11:39.743Z Remaining: 15552000.74] State: Valid
+[2026.05.17-13.11.40:009][ 62]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.05.17-13.11.40:394][ 85]LogEOSSDK: LogEOSMessaging: EpicConnectMessagingClient::CreateStompClient Creating Stomp Client with CorrelationId = EOS-8OKSCTfQIky6XinoMWCNow-2-_-bp43Hk6ZZtIMqe_RXw
+[2026.05.17-13.11.40:402][ 85]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.05.17-13.11.40:402][ 85]LogFab: Display: User logged in
+[2026.05.17-13.11.40:402][ 85]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.05.17-13.11.41:046][122]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-8OKSCTfQIky6XinoMWCNow-UJ0CoHWnKUSj4g8vYk43Xw]
+[2026.05.17-13.12.13:749][ 52]LogFab: Display: Add listing to project - 3413113f-147a-4fc9-bd9f-7c543934969a
+[2026.05.17-13.12.13:749][ 52]LogFab: Display: Listing type - unreal-engine
+[2026.05.17-13.12.13:750][ 52]LogFab: Display: Base Url https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/Steampuna1eeb1077c55V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Steampuna1eeb1077c55V1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/Steampuna1eeb1077c55V1/CloudDir
+[2026.05.17-13.13.47:935][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 641.547424
+[2026.05.17-13.13.49:266][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.17-13.13.49:266][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 642.546692, Update Interval: 342.293152
+[2026.05.17-13.14.48:068][524]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.05.17-13.14.48:069][524]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/CombatGAS/CombatGAS/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.05.17-13.14.48:069][524]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Developers/Tson/Collections/' because it could not be accessed. Aborting watch request...
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Textures/grid01.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/flare01.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/glow01.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix01.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix02.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise01.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise02.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise03.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/radial01.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampAlpha01.tga' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampFire01.tga' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey01.tga' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey02.tga' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey03.tga' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampMagicA01.tga' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rampScan01.tga' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rings01.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/smoke01.png' has been created.
+[2026.05.17-13.14.58:760][767]AssetReimport: 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/stars01.png' has been created.
+[2026.05.17-13.15.03:105][ 13]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.05.17-13.15.03:262][ 14]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Textures/grid01.png]
+[2026.05.17-13.15.03:262][ 14]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Textures/grid01.png)
+[2026.05.17-13.15.03:290][ 14]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:399][ 15]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/flare01.png]
+[2026.05.17-13.15.03:400][ 15]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/flare01.png)
+[2026.05.17-13.15.03:429][ 15]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:495][ 16]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/glow01.png]
+[2026.05.17-13.15.03:495][ 16]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/glow01.png)
+[2026.05.17-13.15.03:499][ 16]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:503][ 16]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix01.png]
+[2026.05.17-13.15.03:505][ 16]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix01.png)
+[2026.05.17-13.15.03:537][ 16]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:569][ 17]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix02.png]
+[2026.05.17-13.15.03:572][ 17]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix02.png)
+[2026.05.17-13.15.03:604][ 17]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:667][ 18]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise01.png]
+[2026.05.17-13.15.03:670][ 18]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise01.png)
+[2026.05.17-13.15.03:704][ 18]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:730][ 19]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise02.png]
+[2026.05.17-13.15.03:733][ 19]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise02.png)
+[2026.05.17-13.15.03:766][ 19]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:799][ 20]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise03.png]
+[2026.05.17-13.15.03:800][ 20]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise03.png)
+[2026.05.17-13.15.03:804][ 20]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:813][ 20]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/radial01.png]
+[2026.05.17-13.15.03:815][ 20]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/radial01.png)
+[2026.05.17-13.15.03:841][ 20]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:869][ 21]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampAlpha01.tga]
+[2026.05.17-13.15.03:885][ 21]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampAlpha01.tga)
+[2026.05.17-13.15.03:897][ 21]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.03:945][ 22]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampFire01.tga]
+[2026.05.17-13.15.03:961][ 22]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampFire01.tga)
+[2026.05.17-13.15.03:971][ 22]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:010][ 23]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey01.tga]
+[2026.05.17-13.15.04:026][ 23]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey01.tga)
+[2026.05.17-13.15.04:037][ 23]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:104][ 24]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey02.tga]
+[2026.05.17-13.15.04:120][ 24]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey02.tga)
+[2026.05.17-13.15.04:130][ 24]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:167][ 25]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey03.tga]
+[2026.05.17-13.15.04:184][ 25]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey03.tga)
+[2026.05.17-13.15.04:195][ 25]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:244][ 26]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampMagicA01.tga]
+[2026.05.17-13.15.04:261][ 26]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampMagicA01.tga)
+[2026.05.17-13.15.04:271][ 26]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:307][ 27]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rampScan01.tga]
+[2026.05.17-13.15.04:326][ 27]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rampScan01.tga)
+[2026.05.17-13.15.04:336][ 27]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:380][ 28]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.png]
+[2026.05.17-13.15.04:383][ 28]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.png)
+[2026.05.17-13.15.04:413][ 28]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:421][ 28]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.png]
+[2026.05.17-13.15.04:422][ 28]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.png)
+[2026.05.17-13.15.04:453][ 28]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:473][ 29]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rings01.png]
+[2026.05.17-13.15.04:476][ 29]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rings01.png)
+[2026.05.17-13.15.04:510][ 29]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:550][ 30]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/smoke01.png]
+[2026.05.17-13.15.04:553][ 30]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/smoke01.png)
+[2026.05.17-13.15.04:584][ 30]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:617][ 31]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/stars01.png]
+[2026.05.17-13.15.04:617][ 31]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/stars01.png)
+[2026.05.17-13.15.04:643][ 31]LogEditorFactories: -- imported successfully
+[2026.05.17-13.15.04:689][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.15.04:922][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/Textures/grid01
+[2026.05.17-13.15.04:923][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/Textures/grid01] ([1] browsable assets)...
+[2026.05.17-13.15.04:930][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/Textures/grid01.grid01]
+[2026.05.17-13.15.04:930][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/Textures/grid01]
+[2026.05.17-13.15.04:930][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/Textures/grid01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Textures/grid01.uasset" SILENT=true
+[2026.05.17-13.15.04:969][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/Textures/grid01
+[2026.05.17-13.15.04:969][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/grid011A46F33245F6010675243ABD00938D13.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Textures/grid01.uasset'
+[2026.05.17-13.15.04:972][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/flare01
+[2026.05.17-13.15.04:972][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/flare01] ([1] browsable assets)...
+[2026.05.17-13.15.04:975][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/flare01.flare01]
+[2026.05.17-13.15.04:975][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/flare01]
+[2026.05.17-13.15.04:975][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/flare01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/flare01.uasset" SILENT=true
+[2026.05.17-13.15.05:001][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/flare01
+[2026.05.17-13.15.05:001][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/flare014260A0E64ED915AEED3338A2B3AD0F92.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/flare01.uasset'
+[2026.05.17-13.15.05:003][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/glow01
+[2026.05.17-13.15.05:003][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/glow01] ([1] browsable assets)...
+[2026.05.17-13.15.05:006][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/glow01.glow01]
+[2026.05.17-13.15.05:006][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/glow01]
+[2026.05.17-13.15.05:006][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/glow01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/glow01.uasset" SILENT=true
+[2026.05.17-13.15.05:020][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/glow01
+[2026.05.17-13.15.05:022][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/glow01DF2E9FE34CBAC1DFDB55B783191C5BCA.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/glow01.uasset'
+[2026.05.17-13.15.05:023][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/helix01
+[2026.05.17-13.15.05:023][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/helix01] ([1] browsable assets)...
+[2026.05.17-13.15.05:027][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/helix01.helix01]
+[2026.05.17-13.15.05:027][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/helix01]
+[2026.05.17-13.15.05:027][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/helix01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix01.uasset" SILENT=true
+[2026.05.17-13.15.05:053][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/helix01
+[2026.05.17-13.15.05:053][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/helix010B2349F0444BA236B68FF2B2AA496CED.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix01.uasset'
+[2026.05.17-13.15.05:055][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/helix02
+[2026.05.17-13.15.05:055][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/helix02] ([1] browsable assets)...
+[2026.05.17-13.15.05:057][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/helix02.helix02]
+[2026.05.17-13.15.05:057][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/helix02]
+[2026.05.17-13.15.05:057][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/helix02" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix02.uasset" SILENT=true
+[2026.05.17-13.15.05:086][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/helix02
+[2026.05.17-13.15.05:087][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/helix020A6EA67441902F2C76C6BBBB94C58BAA.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix02.uasset'
+[2026.05.17-13.15.05:088][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/noise01
+[2026.05.17-13.15.05:088][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/noise01] ([1] browsable assets)...
+[2026.05.17-13.15.05:092][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/noise01.noise01]
+[2026.05.17-13.15.05:092][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/noise01]
+[2026.05.17-13.15.05:092][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/noise01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise01.uasset" SILENT=true
+[2026.05.17-13.15.05:128][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/noise01
+[2026.05.17-13.15.05:129][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/noise01D913FD224FE3F081F9FED9816160EE9C.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise01.uasset'
+[2026.05.17-13.15.05:131][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/noise02
+[2026.05.17-13.15.05:131][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/noise02] ([1] browsable assets)...
+[2026.05.17-13.15.05:133][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/noise02.noise02]
+[2026.05.17-13.15.05:134][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/noise02]
+[2026.05.17-13.15.05:134][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/noise02" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise02.uasset" SILENT=true
+[2026.05.17-13.15.05:160][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/noise02
+[2026.05.17-13.15.05:160][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/noise02F0AC961245E3EDD1C44948B785767372.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise02.uasset'
+[2026.05.17-13.15.05:162][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/noise03
+[2026.05.17-13.15.05:162][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/noise03] ([1] browsable assets)...
+[2026.05.17-13.15.05:165][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/noise03.noise03]
+[2026.05.17-13.15.05:166][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/noise03]
+[2026.05.17-13.15.05:166][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/noise03" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise03.uasset" SILENT=true
+[2026.05.17-13.15.05:180][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/noise03
+[2026.05.17-13.15.05:182][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/noise0342DDEF5B486503BA999F1796DF0E7DA9.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise03.uasset'
+[2026.05.17-13.15.05:183][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/radial01
+[2026.05.17-13.15.05:183][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/radial01] ([1] browsable assets)...
+[2026.05.17-13.15.05:187][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/radial01.radial01]
+[2026.05.17-13.15.05:188][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/radial01]
+[2026.05.17-13.15.05:188][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/radial01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/radial01.uasset" SILENT=true
+[2026.05.17-13.15.05:214][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/radial01
+[2026.05.17-13.15.05:215][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/radial018E7EF1FF415BA592E0B6DA8BEBF5F291.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/radial01.uasset'
+[2026.05.17-13.15.05:216][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/Ramps/rampAlpha01
+[2026.05.17-13.15.05:216][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/Ramps/rampAlpha01] ([1] browsable assets)...
+[2026.05.17-13.15.05:220][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/Ramps/rampAlpha01.rampAlpha01]
+[2026.05.17-13.15.05:220][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/Ramps/rampAlpha01]
+[2026.05.17-13.15.05:240][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/Ramps/rampAlpha01
+[2026.05.17-13.15.05:242][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/rampAlpha01DF9AD9CE4917FB40A50128953F72B7EC.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampAlpha01.uasset'
+[2026.05.17-13.15.05:243][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/Ramps/rampFire01
+[2026.05.17-13.15.05:243][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/Ramps/rampFire01] ([1] browsable assets)...
+[2026.05.17-13.15.05:247][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/Ramps/rampFire01.rampFire01]
+[2026.05.17-13.15.05:247][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/Ramps/rampFire01]
+[2026.05.17-13.15.05:247][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/Ramps/rampFire01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampFire01.uasset" SILENT=true
+[2026.05.17-13.15.05:276][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/Ramps/rampFire01
+[2026.05.17-13.15.05:276][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/rampFire0151C7B8D64691296561211D8C34C2D8A5.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampFire01.uasset'
+[2026.05.17-13.15.05:277][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/Ramps/rampGrey01
+[2026.05.17-13.15.05:278][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/Ramps/rampGrey01] ([1] browsable assets)...
+[2026.05.17-13.15.05:280][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/Ramps/rampGrey01.rampGrey01]
+[2026.05.17-13.15.05:280][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/Ramps/rampGrey01]
+[2026.05.17-13.15.05:280][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/Ramps/rampGrey01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey01.uasset" SILENT=true
+[2026.05.17-13.15.05:306][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/Ramps/rampGrey01
+[2026.05.17-13.15.05:306][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/rampGrey0135CBE82B41A0AB49F0A7E58F5AC61A13.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey01.uasset'
+[2026.05.17-13.15.05:307][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/Ramps/rampGrey02
+[2026.05.17-13.15.05:307][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/Ramps/rampGrey02] ([1] browsable assets)...
+[2026.05.17-13.15.05:312][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/Ramps/rampGrey02.rampGrey02]
+[2026.05.17-13.15.05:312][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/Ramps/rampGrey02]
+[2026.05.17-13.15.05:312][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/Ramps/rampGrey02" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey02.uasset" SILENT=true
+[2026.05.17-13.15.05:349][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/Ramps/rampGrey02
+[2026.05.17-13.15.05:349][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/rampGrey021F322ACF41D0AAB25E4C94927AED024F.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey02.uasset'
+[2026.05.17-13.15.05:350][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/Ramps/rampGrey03
+[2026.05.17-13.15.05:352][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/Ramps/rampGrey03] ([1] browsable assets)...
+[2026.05.17-13.15.05:354][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/Ramps/rampGrey03.rampGrey03]
+[2026.05.17-13.15.05:354][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/Ramps/rampGrey03]
+[2026.05.17-13.15.05:354][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/Ramps/rampGrey03" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey03.uasset" SILENT=true
+[2026.05.17-13.15.05:377][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/Ramps/rampGrey03
+[2026.05.17-13.15.05:377][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/rampGrey0375CC0A4145394A89DC7F259C9CAAAC8D.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey03.uasset'
+[2026.05.17-13.15.05:380][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/Ramps/rampMagicA01
+[2026.05.17-13.15.05:380][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/Ramps/rampMagicA01] ([1] browsable assets)...
+[2026.05.17-13.15.05:384][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/Ramps/rampMagicA01.rampMagicA01]
+[2026.05.17-13.15.05:384][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/Ramps/rampMagicA01]
+[2026.05.17-13.15.05:410][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/Ramps/rampMagicA01
+[2026.05.17-13.15.05:411][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/rampMagicA01781B3F704D3B38E04F2C8CB6B4B22E3C.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampMagicA01.uasset'
+[2026.05.17-13.15.05:413][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/rampScan01
+[2026.05.17-13.15.05:413][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/rampScan01] ([1] browsable assets)...
+[2026.05.17-13.15.05:416][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/rampScan01.rampScan01]
+[2026.05.17-13.15.05:416][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/rampScan01]
+[2026.05.17-13.15.05:416][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/rampScan01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rampScan01.uasset" SILENT=true
+[2026.05.17-13.15.05:437][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/rampScan01
+[2026.05.17-13.15.05:438][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/rampScan0153CEBA1945F2B028006C78BC6DFCD92D.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rampScan01.uasset'
+[2026.05.17-13.15.05:439][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/refraction01
+[2026.05.17-13.15.05:439][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/refraction01] ([1] browsable assets)...
+[2026.05.17-13.15.05:442][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/refraction01.refraction01]
+[2026.05.17-13.15.05:442][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/refraction01]
+[2026.05.17-13.15.05:442][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/refraction01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.uasset" SILENT=true
+[2026.05.17-13.15.05:469][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/refraction01
+[2026.05.17-13.15.05:470][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/refraction01C4252F8A46D77CDD6044F5A0B6EC3B4E.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.uasset'
+[2026.05.17-13.15.05:471][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/defaultRefractionMask
+[2026.05.17-13.15.05:471][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/defaultRefractionMask] ([1] browsable assets)...
+[2026.05.17-13.15.05:474][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/defaultRefractionMask.defaultRefractionMask]
+[2026.05.17-13.15.05:474][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/defaultRefractionMask]
+[2026.05.17-13.15.05:504][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/defaultRefractionMask
+[2026.05.17-13.15.05:504][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/defaultRefractionMask23DEB7314187FE2BDA74E380AB7C1986.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/defaultRefractionMask.uasset'
+[2026.05.17-13.15.05:506][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/rings01
+[2026.05.17-13.15.05:506][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/rings01] ([1] browsable assets)...
+[2026.05.17-13.15.05:509][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/rings01.rings01]
+[2026.05.17-13.15.05:509][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/rings01]
+[2026.05.17-13.15.05:509][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/rings01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rings01.uasset" SILENT=true
+[2026.05.17-13.15.05:545][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/rings01
+[2026.05.17-13.15.05:546][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/rings0106BDBCA14E6E08D8D9A58A907B1CCE99.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rings01.uasset'
+[2026.05.17-13.15.05:547][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/smoke01
+[2026.05.17-13.15.05:548][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/smoke01] ([1] browsable assets)...
+[2026.05.17-13.15.05:550][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/smoke01.smoke01]
+[2026.05.17-13.15.05:550][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/smoke01]
+[2026.05.17-13.15.05:550][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/smoke01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/smoke01.uasset" SILENT=true
+[2026.05.17-13.15.05:580][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/smoke01
+[2026.05.17-13.15.05:581][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/smoke01159AD2A3465801BE75E0658199897B9C.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/smoke01.uasset'
+[2026.05.17-13.15.05:582][ 32]LogFileHelpers: Saving Package: /Game/Sabertooth/VFX/Textures/stars01
+[2026.05.17-13.15.05:582][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sabertooth/VFX/Textures/stars01] ([1] browsable assets)...
+[2026.05.17-13.15.05:586][ 32]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sabertooth/VFX/Textures/stars01.stars01]
+[2026.05.17-13.15.05:586][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/VFX/Textures/stars01]
+[2026.05.17-13.15.05:586][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/VFX/Textures/stars01" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/stars01.uasset" SILENT=true
+[2026.05.17-13.15.05:604][ 32]LogSavePackage: Moving output files for package: /Game/Sabertooth/VFX/Textures/stars01
+[2026.05.17-13.15.05:605][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/stars01C169E7AB40CE1977870F48AB1E81B3C1.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/stars01.uasset'
+[2026.05.17-13.15.05:629][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 940.891 ms
+[2026.05.17-13.15.05:758][ 32]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.17-13.15.05:989][ 33]LogContentValidation: Enabled validators:
+[2026.05.17-13.15.05:989][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.15.05:989][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.15.05:989][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.15.05:989][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.15.05:989][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.15.05:989][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.15.05:989][ 33]LogContentValidation: Display: Starting to validate 21 assets (0 associated objects such as actors)
+[2026.05.17-13.15.05:989][ 33]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.15.05:991][ 33]AssetCheck: /Game/Sabertooth/Textures/grid01 Validating asset
+[2026.05.17-13.15.05:991][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/flare01 Validating asset
+[2026.05.17-13.15.05:991][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/glow01 Validating asset
+[2026.05.17-13.15.05:992][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/helix01 Validating asset
+[2026.05.17-13.15.05:992][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/helix02 Validating asset
+[2026.05.17-13.15.05:992][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/noise01 Validating asset
+[2026.05.17-13.15.05:992][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/noise02 Validating asset
+[2026.05.17-13.15.05:992][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/noise03 Validating asset
+[2026.05.17-13.15.05:992][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/radial01 Validating asset
+[2026.05.17-13.15.05:992][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/Ramps/rampAlpha01 Validating asset
+[2026.05.17-13.15.05:992][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/Ramps/rampFire01 Validating asset
+[2026.05.17-13.15.05:993][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/Ramps/rampGrey01 Validating asset
+[2026.05.17-13.15.05:993][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/Ramps/rampGrey02 Validating asset
+[2026.05.17-13.15.05:993][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/Ramps/rampGrey03 Validating asset
+[2026.05.17-13.15.05:993][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/Ramps/rampMagicA01 Validating asset
+[2026.05.17-13.15.05:993][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/rampScan01 Validating asset
+[2026.05.17-13.15.05:993][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/refraction01 Validating asset
+[2026.05.17-13.15.05:993][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/defaultRefractionMask Validating asset
+[2026.05.17-13.15.05:994][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/rings01 Validating asset
+[2026.05.17-13.15.05:994][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/smoke01 Validating asset
+[2026.05.17-13.15.05:994][ 33]AssetCheck: /Game/Sabertooth/VFX/Textures/stars01 Validating asset
+[2026.05.17-13.15.05:994][ 33]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.15.05:994][ 33]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 21
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset grid01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Textures/grid01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset flare01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/flare01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset glow01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/glow01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset helix01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset helix02 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix02.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset noise01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset noise02 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise02.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset noise03 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise03.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset radial01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/radial01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset rampAlpha01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampAlpha01.tga.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset rampFire01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampFire01.tga.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset rampGrey01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey01.tga.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset rampGrey02 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey02.tga.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset rampGrey03 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey03.tga.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset rampMagicA01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampMagicA01.tga.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset rampScan01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rampScan01.tga.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset refraction01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset defaultRefractionMask from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset rings01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rings01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset smoke01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/smoke01.png.
+[2026.05.17-13.15.08:638][173]AssetReimport: Reimported asset stars01 from E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/stars01.png.
+[2026.05.17-13.15.10:192][266]LogSlate: Window 'Message Log' being destroyed
+[2026.05.17-13.15.10:203][266]LogSlate: Window 'Message Log' being destroyed
+[2026.05.17-13.15.18:681][456]LogEOSSDK: Warning: LogHttp: 0000021A101A0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.0.3-49960398&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4E2423D430199BAAF543CA708C7A43B, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.05.17-13.15.18:681][456]LogEOSSDK: Warning: LogHttp: 0000021A101A0C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.05.17-13.15.18:681][456]LogEOSSDK: Warning: LogHttp: 0000021A101A0C00: libcurl info message cache 0 (Found bundle for host: 0x219c28500f0 [serially])
+[2026.05.17-13.15.18:681][456]LogEOSSDK: Warning: LogHttp: 0000021A101A0C00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.05.17-13.15.18:681][456]LogEOSSDK: Warning: LogHttp: 0000021A101A0C00: libcurl info message cache 2 (Closing connection)
+[2026.05.17-13.15.18:681][456]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.0.3-49960398&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4E2423D430199BAAF543CA708C7A43B
+[2026.05.17-13.15.20:014][460]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.0.3-49960398&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4E2423D430199BAAF543CA708C7A43B
+[2026.05.17-13.15.21:682][465]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.0.3-49960398&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4E2423D430199BAAF543CA708C7A43B

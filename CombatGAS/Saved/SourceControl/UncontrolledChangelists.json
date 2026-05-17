@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Textures/grid01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/flare01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/glow01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/helix02.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise02.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/noise03.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/radial01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampAlpha01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampFire01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey02.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampGrey03.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/Ramps/rampMagicA01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rampScan01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/refraction01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/defaultRefractionMask.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rings01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/smoke01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/stars01.uasset"
+			]
+		}
+	]
+}
