@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CombatGAS.uproject" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CombatGAS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CombatGASEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\CombatGAS">
+      <UniqueIdentifier>{F9659209-FEE6-3F1B-86DA-E6CCB95EA8A5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CombatGAS\CombatGAS.Build.cs">
+      <Filter>Source\CombatGAS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CombatGAS\CombatGAS.cpp">
+      <Filter>Source\CombatGAS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CombatGAS\CombatGAS.h">
+      <Filter>Source\CombatGAS</Filter>
+    </ClInclude>
+    <Filter Include="Source\CombatGAS\GameplayAbilities">
+      <UniqueIdentifier>{7C698222-9E39-3344-93FE-3CD10F642954}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CombatGAS\GameplayAbilities\AttributeSets">
+      <UniqueIdentifier>{62FC911E-CE22-37E6-9D4C-3E911E334BFF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CombatGAS\GameplayAbilities\AttributeSets\BaseAttributeSet.cpp">
+      <Filter>Source\CombatGAS\GameplayAbilities\AttributeSets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CombatGAS\GameplayAbilities\AttributeSets\BaseAttributeSet.h">
+      <Filter>Source\CombatGAS\GameplayAbilities\AttributeSets</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

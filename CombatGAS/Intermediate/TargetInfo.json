@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CombatGAS",
+			"Path": "..\\Source\\CombatGAS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CombatGASEditor",
+			"Path": "..\\Source\\CombatGASEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

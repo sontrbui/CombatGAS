@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\CombatGAS\\CombatGAS\\Source\\CombatGAS\\CombatGAS.Build.cs",
+		"E:\\Unreal Projects\\CombatGAS\\CombatGAS\\Source\\CombatGAS.Target.cs",
+		"E:\\Unreal Projects\\CombatGAS\\CombatGAS\\Source\\CombatGASEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

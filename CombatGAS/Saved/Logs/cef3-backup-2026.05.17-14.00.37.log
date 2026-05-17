@@ -1,0 +1,208 @@
+[59336:35556:0517/204905.735:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[59336:35556:0517/204905.926:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[59336:23768:0517/204913.101:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:48536:0517/204913.101:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:5540:0517/204913.101:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:47440:0517/204913.434:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:48536:0517/204913.434:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for dns.google failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[59336:23768:0517/204913.434:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for dns.google failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[59336:5540:0517/204913.434:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for chrome.cloudflare-dns.com failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[34096:14728:0517/204913.437:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204913.439:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204913.439:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204913.872:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204913.942:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[59336:47440:0517/204914.100:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for chrome.cloudflare-dns.com failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[58348:39268:0517/204914.103:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-641B4E4CF345ABE2424280DD760EE063 will be ignored
+[34096:14728:0517/204914.436:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[59336:56800:0517/204914.440:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:55344:0517/204914.440:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:27944:0517/204914.440:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:18648:0517/204914.440:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:56800:0517/204914.776:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for chrome.cloudflare-dns.com failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[59336:27944:0517/204914.776:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for dns.google failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[59336:55344:0517/204914.776:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for dns.google failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[59336:46788:0517/204914.776:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:47944:0517/204914.776:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:44572:0517/204914.776:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:18648:0517/204914.776:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for chrome.cloudflare-dns.com failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[34096:14728:0517/204914.777:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204914.777:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204914.779:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204914.779:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204914.780:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204914.780:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[59336:46788:0517/204915.106:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for dns.google failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[59336:44572:0517/204915.106:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for chrome.cloudflare-dns.com failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[59336:47944:0517/204915.106:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for chrome.cloudflare-dns.com failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[34096:14728:0517/204915.433:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204915.434:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204915.434:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204915.434:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204915.434:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204915.435:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204915.715:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204915.907:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204915.972:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204916.010:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204916.030:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[59336:44572:0517/204916.767:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[59336:44572:0517/204917.099:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for dns.google failed:
+----- Certificate i=3 (CN=Cisco Umbrella Root CA,O=Cisco) -----
+ERROR: No matching issuer found
+
+
+[34096:14728:0517/204917.100:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204918.898:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204919.004:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204919.044:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204919.147:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204919.205:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204919.273:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204923.234:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204923.400:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204923.454:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204923.814:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204924.000:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204924.033:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204929.645:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204930.291:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204930.298:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204931.044:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204931.058:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204931.360:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204931.682:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204932.482:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204932.488:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204939.808:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204939.895:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204940.095:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204941.180:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204941.278:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204941.775:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204955.313:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204955.583:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204956.479:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204956.489:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204956.681:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/204958.246:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205018.023:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205018.515:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205018.879:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205019.042:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205019.872:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205021.048:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205049.891:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205050.887:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205052.510:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205055.215:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205055.250:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205056.272:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205145.530:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205146.383:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205147.016:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205149.399:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205153.044:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205201.147:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205201.204:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205201.204:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205201.325:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205253.781:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205256.807:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205259.286:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205305.559:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205309.075:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205313.624:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205449.028:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205452.508:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205456.738:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205459.828:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205515.588:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205517.736:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205734.254:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205740.600:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205749.947:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205801.495:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205802.205:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[34096:14728:0517/205827.744:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[59336:35556:0517/210037.013:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
