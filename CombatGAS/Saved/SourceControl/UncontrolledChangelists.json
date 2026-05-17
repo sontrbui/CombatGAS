@@ -25,7 +25,13 @@
 				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/defaultRefractionMask.uasset",
 				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/rings01.uasset",
 				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/smoke01.uasset",
-				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/stars01.uasset"
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/VFX/Textures/stars01.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/BP_CombatSabertooth.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/BP_SteampunkCat.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/GM_SteampunkCat.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/ABP_SteampunkCat.uasset"
 			]
 		}
 	]

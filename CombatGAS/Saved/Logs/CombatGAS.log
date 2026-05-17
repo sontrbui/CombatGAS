@@ -1728,3 +1728,755 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.17-13.15.18:681][456]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.0.3-49960398&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4E2423D430199BAAF543CA708C7A43B
 [2026.05.17-13.15.20:014][460]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.0.3-49960398&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4E2423D430199BAAF543CA708C7A43B
 [2026.05.17-13.15.21:682][465]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.0.3-49960398&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4E2423D430199BAAF543CA708C7A43B
+[2026.05.17-13.15.49:834][650]LogSlate: Window 'Fab' being destroyed
+[2026.05.17-13.15.49:845][650]LogSlate: Window 'Fab' being destroyed
+[2026.05.17-13.15.51:606][732]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.05.17-13.15.51:607][732]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/3413113f-147a-4fc9-bd9f-7c543934969a.
+[2026.05.17-13.19.16:502][  1]LogStreaming: Display: FlushAsyncLoading(422): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.17-13.19.18:910][  1]LogBlueprint: Warning: [AssetLog] E:\Unreal Projects\CombatGAS\CombatGAS\Content\Sabertooth\Blueprints\BP_SteampunkCat.uasset: [Compiler] InputAction Event references unknown Action 'Shot' for  InputAction Shot
+[2026.05.17-13.19.18:910][  1]LogBlueprint: Warning: [AssetLog] E:\Unreal Projects\CombatGAS\CombatGAS\Content\Sabertooth\Blueprints\BP_SteampunkCat.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2026.05.17-13.19.18:910][  1]LogBlueprint: Warning: [AssetLog] E:\Unreal Projects\CombatGAS\CombatGAS\Content\Sabertooth\Blueprints\BP_SteampunkCat.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2026.05.17-13.19.18:912][  1]LogBlueprint: Warning: [AssetLog] E:\Unreal Projects\CombatGAS\CombatGAS\Content\Sabertooth\Blueprints\BP_SteampunkCat.uasset: [Compiler] Input Axis Event references unknown Axis 'Move Right' for  InputAxis Move Right
+[2026.05.17-13.19.18:912][  1]LogBlueprint: Warning: [AssetLog] E:\Unreal Projects\CombatGAS\CombatGAS\Content\Sabertooth\Blueprints\BP_SteampunkCat.uasset: [Compiler] Input Axis Event references unknown Axis 'Move Forward' for  InputAxis Move Forward
+[2026.05.17-13.19.20:673][  1]LogNiagaraEditor: Niagara graph NiagaraGraph /Niagara/Modules/Update/Material/DynamicMaterialParameters.DynamicMaterialParameters:NiagaraScriptSource_3.NiagaraGraph_0: The default value declaration for the variable 'Module.Index0Float3Write' is not consistent between the graph and the metadata.
+  Either change the default mode to 'custom' or check the input pins in the parameter map get node in the graph.
+[2026.05.17-13.19.20:674][  1]LogNiagaraEditor: Niagara graph NiagaraGraph /Niagara/Modules/Update/Material/DynamicMaterialParameters.DynamicMaterialParameters:NiagaraScriptSource_3.NiagaraGraph_0: The default value declaration for the variable 'Module.Index1Float3Write' is not consistent between the graph and the metadata.
+  Either change the default mode to 'custom' or check the input pins in the parameter map get node in the graph.
+[2026.05.17-13.19.21:228][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sabertooth/Blueprints/BP_SteampunkCat.BP_SteampunkCat
+[2026.05.17-13.19.25:162][  1]LogSlate: Took 0.009634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.05.17-13.19.25:857][  1]LogAutomationController: Ignoring very large delta of 9.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.17-13.19.38:214][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 991.824463
+[2026.05.17-13.19.38:635][530]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.17-13.19.38:635][530]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 992.219788, Update Interval: 318.203064
+[2026.05.17-13.19.40:700][612]LogSlate: Window 'BP_SteampunkCat' being destroyed
+[2026.05.17-13.19.40:734][612]LogSlate: Window 'BP_SteampunkCat' being destroyed
+[2026.05.17-13.19.40:743][612]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.19.40:744][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.19.40:948][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.05.17-13.19.47:981][985]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.17-13.19.48:032][985]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.17-13.19.48:053][986]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.17-13.19.53:087][286]LogContentBrowser: Attempting asset rename: NewFolder -> Sabertooth
+[2026.05.17-13.19.53:088][286]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.17-13.20.32:094][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.05.17-13.20.32:106][120]LogBlueprint: Compiling Blueprint '/Game/Characters/Sabertooth/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2026.05.17-13.20.53:595][358]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter -> BP_CombatSabertooth
+[2026.05.17-13.20.53:905][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.20.53:905][358]LogFileHelpers: Saving Package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.20.53:905][358]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Sabertooth/BP_CombatSabertooth] ([2] browsable assets)...
+[2026.05.17-13.20.53:931][358]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth_C]
+[2026.05.17-13.20.53:959][358]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth]
+[2026.05.17-13.20.53:959][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Sabertooth/BP_CombatSabertooth]
+[2026.05.17-13.20.53:998][358]LogSavePackage: Moving output files for package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.20.53:998][358]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/BP_CombatSabertooth29B73C0343B6A248B531F7A508CDD784.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/BP_CombatSabertooth.uasset'
+[2026.05.17-13.20.54:005][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.213 ms (total: 1.04 sec)
+[2026.05.17-13.20.54:106][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.05.17-13.20.54:157][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.05.17-13.20.54:210][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.05.17-13.20.54:475][358]LogContentValidation: Enabled validators:
+[2026.05.17-13.20.54:476][358]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.20.54:476][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.20.54:476][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.20.54:476][358]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.20.54:476][358]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.20.54:476][358]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.20.54:476][358]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.20.54:476][358]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.20.54:476][358]AssetCheck: /Game/Characters/Sabertooth/BP_CombatSabertooth Validating asset
+[2026.05.17-13.20.54:476][358]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.20.54:476][358]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.20.54:628][358]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: ================================================
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Total job queries 328, among them cache hits 10 (3.05%), DDC hits 276 (84.15%), Duplicates 40 (12.20%)
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Tracking 278 distinct input hashes that result in 202 distinct outputs (72.66%)
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: RAM used: 2.97 MiB of 1.60 GiB budget. Usage: 0.18%
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Shaders Compiled: 2
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.05 s
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Job execution time: average 2.42 s, max 2.42 s
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Job life time (pending + execution): average 2.46 s, max 2.47
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Shader code size: total 23.516 KiB, numShaders 2, average 11.758 KiB, min 11.68 KiB, max 11.836 KiB
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.47 s
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Average processing rate: 0.81 jobs/sec
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Total thread time: 1.908 s
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Total thread preprocess time: 9.615 s
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Percentage time preprocessing: 503.86%
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Effective parallelization: 0.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.048282
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.95 sec, max 0.97 sec, min 0.94 sec)
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.17-13.21.15:114][593]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 100.00% of total time (compiled    2 times, average 0.95 sec, max 0.97 sec, min 0.94 sec)
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display: === Material stats ===
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display: Materials Translated:    154
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display: Material Translation Only: 0.08 s (49%)
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display: Material Cache Hits: 35 (23%)
+[2026.05.17-13.21.15:115][593]LogShaderCompilers: Display: ================================================
+[2026.05.17-13.21.21:920][649]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth
+[2026.05.17-13.21.30:251][935]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2026.05.17-13.21.38:996][334]LogBlueprint: Compiling Blueprint '/Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth'
+[2026.05.17-13.21.39:255][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.05.17-13.21.40:011][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.21.40:205][351]LogFileHelpers: Saving Package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.21.40:207][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Sabertooth/BP_CombatSabertooth] ([2] browsable assets)...
+[2026.05.17-13.21.40:224][351]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth]
+[2026.05.17-13.21.40:224][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Sabertooth/BP_CombatSabertooth]
+[2026.05.17-13.21.40:257][351]LogSavePackage: Moving output files for package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.21.40:258][351]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/BP_CombatSabertoothC8778DEE4EDD9E90C650FCAC5AACBB84.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/BP_CombatSabertooth.uasset'
+[2026.05.17-13.21.40:275][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.955 ms (total: 1.30 sec)
+[2026.05.17-13.21.40:528][351]LogContentValidation: Enabled validators:
+[2026.05.17-13.21.40:528][351]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.21.40:528][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.21.40:528][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.21.40:528][351]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.21.40:528][351]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.21.40:528][351]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.21.40:528][351]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.21.40:528][351]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.21.40:528][351]AssetCheck: /Game/Characters/Sabertooth/BP_CombatSabertooth Validating asset
+[2026.05.17-13.21.40:528][351]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.21.40:528][351]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.21.46:444][629]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth_C
+[2026.05.17-13.21.46:444][629]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth_C
+[2026.05.17-13.21.46:447][629]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth as actor: BP_CombatSabertooth_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_CombatSabertooth_C_0
+[2026.05.17-13.21.46:453][629]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth as actor: BP_CombatSabertooth_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_CombatSabertooth_C_0
+[2026.05.17-13.21.46:610][638]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.05.17-13.21.46:924][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2026.05.17-13.21.46:929][651]LogEditorActor: Deleted 0 Actors (0.061 secs)
+[2026.05.17-13.21.46:937][651]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth_C
+[2026.05.17-13.21.46:937][651]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth_C
+[2026.05.17-13.21.46:950][651]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth as actor: BP_CombatSabertooth_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_CombatSabertooth_C_UAID_183D2D2E31EB01DC02_1879055991
+[2026.05.17-13.21.46:954][651]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth as actor: BP_CombatSabertooth_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_CombatSabertooth_C_UAID_183D2D2E31EB01DC02_1879055991
+[2026.05.17-13.21.48:279][707]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.17-13.21.48:291][707]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.17-13.21.48:291][707]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.17-13.21.48:295][707]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 3.268 ms
+[2026.05.17-13.21.48:303][707]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.05.17-13.21.48:304][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.17-13.21.48:306][707]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2026.05.17-13.21.48:312][707]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.05.17-13.21.48:417][708]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.17-13.21.48:430][708]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.17-13.21.48:432][708]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.249 ms
+[2026.05.17-13.21.48:432][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014847s)
+[2026.05.17-13.21.48:432][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.014963s)
+[2026.05.17-13.21.48:483][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.05.17-13.21.48:488][708]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.17-13.21.48:491][708]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.17-13.21.48:491][708]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.17-13.21.48:491][708]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.17-13.21.48:491][708]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.17-13.21.48:495][708]LogWorldPartition: Display: WorldPartition initialize took 3.409 ms (total: 144.979 ms)
+[2026.05.17-13.21.48:495][708]LogPlayLevel: PIE: World Init took: (0.006493s)
+[2026.05.17-13.21.48:496][708]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.05.17-13.21.48:496][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.17-13.21.48:496][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.17-13.21.48:496][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.17-13.21.48:496][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.17-13.21.48:496][708]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.17-13.21.48:496][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.17-13.21.48:496][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.17-13.21.48:496][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.17-13.21.48:496][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.17-13.21.48:496][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.17-13.21.48:496][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.17-13.21.48:501][708]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.17-13.21.48:508][708]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='FxSound Speakers (FxSound Audio Enhancer)'
+[2026.05.17-13.21.48:509][708]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.21.48:510][708]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='FxSound Speakers (FxSound Audio Enhancer)'
+[2026.05.17-13.21.48:511][708]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.21.48:512][708]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.05.17-13.21.48:513][708]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.21.48:526][708]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.17-13.21.48:526][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.17-13.21.48:526][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.17-13.21.48:526][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.17-13.21.48:527][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.05.17-13.21.48:527][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.05.17-13.21.48:533][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.05.17-13.21.48:533][708]LogInit: FAudioDevice initialized with ID 2.
+[2026.05.17-13.21.48:533][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.05.17-13.21.48:533][708]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ThirdPerson'.
+[2026.05.17-13.21.48:533][708]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.05.17-13.21.48:542][708]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.17-13.21.48:549][708]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.05.17-20.21.48
+[2026.05.17-13.21.48:557][708]LogWorld: Bringing up level for play took: 0.013524
+[2026.05.17-13.21.48:579][708]PIE: Server logged in
+[2026.05.17-13.21.48:581][708]PIE: Play in editor total start time 0.292 seconds.
+[2026.05.17-13.21.50:001][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.17-13.21.50:001][786]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.17-13.21.50:002][786]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.21.50:004][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.21.50:004][786]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.17-13.21.50:011][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.17-13.21.50:019][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.21.50:070][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.17-13.21.50:071][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.05.17-13.21.50:071][786]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.05.17-13.21.50:076][786]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.05.17-13.21.50:089][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.05.17-13.21.50:288][787]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.05.17-13.21.54:962][  7]Cmd: DELETE
+[2026.05.17-13.21.54:966][  7]Cmd: ACTOR DELETE
+[2026.05.17-13.21.54:980][  7]LogEditorActor: Deleted Actor: BP_CombatSabertooth_C
+[2026.05.17-13.21.55:038][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.17-13.21.55:041][  7]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2026.05.17-13.22.07:163][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.22.07:408][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.05.17-13.22.07:461][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.05.17-13.22.07:510][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.05.17-13.22.07:531][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 367.866 ms (total: 1.67 sec)
+[2026.05.17-13.22.08:278][764]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.17-13.22.08:289][764]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.17-13.22.08:290][764]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.17-13.22.08:290][764]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.047 ms (total: 4.316 ms)
+[2026.05.17-13.22.08:290][764]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.05.17-13.22.08:290][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.17-13.22.08:290][764]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2026.05.17-13.22.08:296][764]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.05.17-13.22.08:337][765]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.17-13.22.08:346][765]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.17-13.22.08:348][765]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.161 ms (total: 4.410 ms)
+[2026.05.17-13.22.08:348][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012314s)
+[2026.05.17-13.22.08:349][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012382s)
+[2026.05.17-13.22.08:402][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.05.17-13.22.08:404][765]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.17-13.22.08:406][765]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.17-13.22.08:406][765]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.17-13.22.08:406][765]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.17-13.22.08:406][765]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.17-13.22.08:408][765]LogWorldPartition: Display: WorldPartition initialize took 2.592 ms (total: 147.571 ms)
+[2026.05.17-13.22.08:409][765]LogPlayLevel: PIE: World Init took: (0.005249s)
+[2026.05.17-13.22.08:409][765]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.05.17-13.22.08:409][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.17-13.22.08:409][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.17-13.22.08:409][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.17-13.22.08:409][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.17-13.22.08:409][765]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.17-13.22.08:409][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.17-13.22.08:409][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.17-13.22.08:409][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.17-13.22.08:409][765]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.17-13.22.08:409][765]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.17-13.22.08:409][765]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.17-13.22.08:414][765]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.17-13.22.08:420][765]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='FxSound Speakers (FxSound Audio Enhancer)'
+[2026.05.17-13.22.08:420][765]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.22.08:422][765]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='FxSound Speakers (FxSound Audio Enhancer)'
+[2026.05.17-13.22.08:423][765]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.22.08:425][765]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.05.17-13.22.08:426][765]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.22.08:437][765]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.17-13.22.08:437][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.17-13.22.08:437][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.17-13.22.08:437][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.17-13.22.08:437][765]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.05.17-13.22.08:437][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.05.17-13.22.08:444][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.05.17-13.22.08:444][765]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.05.17-13.22.08:444][765]LogInit: FAudioDevice initialized with ID 3.
+[2026.05.17-13.22.08:444][765]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ThirdPerson'.
+[2026.05.17-13.22.08:444][765]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.17-13.22.08:450][765]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.17-13.22.08:453][765]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.05.17-20.22.08
+[2026.05.17-13.22.08:454][765]LogWorld: Bringing up level for play took: 0.003929
+[2026.05.17-13.22.08:458][765]PIE: Server logged in
+[2026.05.17-13.22.08:460][765]PIE: Play in editor total start time 0.171 seconds.
+[2026.05.17-13.22.10:684][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.17-13.22.10:684][892]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.17-13.22.10:684][892]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.22.10:685][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.22.10:685][892]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.17-13.22.10:688][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.17-13.22.10:695][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.22.10:745][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.17-13.22.10:745][892]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.17-13.22.10:746][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.05.17-13.22.10:750][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.05.17-13.22.10:776][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.05.17-13.22.10:835][893]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.05.17-13.22.35:710][611]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Sabertooth/Blueprints/ABP_SteampunkCat.ABP_SteampunkCat
+[2026.05.17-13.22.35:803][611]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.17-13.22.35:841][611]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.05.17-13.22.35:868][611]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.05.17-13.22.36:101][611]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.05.17-13.22.36:102][611]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.05.17-13.22.36:114][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.05.17-13.22.37:693][611]LogSlate: Took 0.012291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.05.17-13.22.37:898][611]LogAutomationController: Ignoring very large delta of 2.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.17-13.23.12:618][718]LogSlate: Window 'Delete Variable' being destroyed
+[2026.05.17-13.23.12:658][718]LogAutomationController: Ignoring very large delta of 3.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.17-13.24.15:126][152]LogShaderCompilers: Display: ================================================
+[2026.05.17-13.24.15:126][152]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.17-13.24.15:126][152]LogShaderCompilers: Display: Total job queries 339, among them cache hits 15 (4.42%), DDC hits 277 (81.71%), Duplicates 40 (11.80%)
+[2026.05.17-13.24.15:126][152]LogShaderCompilers: Display: Tracking 284 distinct input hashes that result in 207 distinct outputs (72.89%)
+[2026.05.17-13.24.15:126][152]LogShaderCompilers: Display: RAM used: 3.01 MiB of 1.60 GiB budget. Usage: 0.18%
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Shaders Compiled: 7
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Average time worker was idle: 189.46 s
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Job execution time: average 1.35 s, max 2.42 s
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Job life time (pending + execution): average 1.42 s, max 2.47
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Shader code size: total 66.965 KiB, numShaders 7, average 9.566 KiB, min 6.402 KiB, max 11.836 KiB
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.93 s
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Average processing rate: 1.78 jobs/sec
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Total thread time: 4.919 s
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Total thread preprocess time: 9.875 s
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Percentage time preprocessing: 200.75%
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Effective parallelization: 1.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.078275
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.98 sec, max 1.06 sec, min 0.94 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.36 sec, max 0.40 sec, min 0.32 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 80.08% of total time (compiled    4 times, average 0.98 sec, max 1.06 sec, min 0.94 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.57% of total time (compiled    2 times, average 0.36 sec, max 0.40 sec, min 0.32 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.36% of total time (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: === Material stats ===
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Materials Translated:    156
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Material Translation Only: 0.08 s (48%)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: Material Cache Hits: 35 (22%)
+[2026.05.17-13.24.15:127][152]LogShaderCompilers: Display: ================================================
+[2026.05.17-13.25.10:689][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1324.307007
+[2026.05.17-13.25.11:196][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.17-13.25.11:196][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1324.789795, Update Interval: 347.136444
+[2026.05.17-13.25.15:983][373]LogEditorTransaction: Undo Move Node
+[2026.05.17-13.25.16:260][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.05.17-13.25.16:326][373]LogEditorTransaction: Undo Delete current selection
+[2026.05.17-13.25.16:598][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.05.17-13.25.31:416][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.25.31:616][932]LogFileHelpers: Saving Package: /Game/Sabertooth/Blueprints/ABP_SteampunkCat
+[2026.05.17-13.25.31:616][932]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sabertooth/Blueprints/ABP_SteampunkCat] ([2] browsable assets)...
+[2026.05.17-13.25.31:631][932]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Sabertooth/Blueprints/ABP_SteampunkCat.ABP_SteampunkCat]
+[2026.05.17-13.25.31:631][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/Blueprints/ABP_SteampunkCat]
+[2026.05.17-13.25.31:631][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/Blueprints/ABP_SteampunkCat" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset" SILENT=true
+[2026.05.17-13.25.31:660][932]LogSavePackage: Moving output files for package: /Game/Sabertooth/Blueprints/ABP_SteampunkCat
+[2026.05.17-13.25.31:660][932]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/ABP_SteampunkCat96EE1EE74BD645DADFBF70908E683418.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset'
+[2026.05.17-13.25.31:678][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 260.707 ms (total: 1.93 sec)
+[2026.05.17-13.25.31:932][932]LogContentValidation: Enabled validators:
+[2026.05.17-13.25.31:932][932]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.25.31:932][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.25.31:932][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.25.31:932][932]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.25.31:932][932]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.25.31:932][932]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.25.31:932][932]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.25.31:932][932]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.25.31:932][932]AssetCheck: /Game/Sabertooth/Blueprints/ABP_SteampunkCat Validating asset
+[2026.05.17-13.25.31:932][932]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.25.31:932][932]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.25.31:969][932]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.17-13.25.59:160][937]LogSlate: Took 0.013928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.05.17-13.26.07:824][138]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.05.17-13.26.07:856][138]LogBlueprint: Warning: Change Variable Type - search skipped as requested by editor settings, consider searching "Nodes(VariableReference(MemberName=+"Owning Actor" && MemberGuid(A=1905304094 && B=1174825745 && C=1678760840 && D=1233077973)) || Name="(Owning Actor)") || Pins(Binding="Owning Actor") || Binding="Owning Actor""
+[2026.05.17-13.26.07:960][138]LogAutomationController: Ignoring very large delta of 2.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.17-13.26.10:954][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.26.11:154][253]LogFileHelpers: Saving Package: /Game/Sabertooth/Blueprints/ABP_SteampunkCat
+[2026.05.17-13.26.11:154][253]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sabertooth/Blueprints/ABP_SteampunkCat] ([2] browsable assets)...
+[2026.05.17-13.26.11:169][253]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Sabertooth/Blueprints/ABP_SteampunkCat.ABP_SteampunkCat]
+[2026.05.17-13.26.11:169][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/Blueprints/ABP_SteampunkCat]
+[2026.05.17-13.26.11:169][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/Blueprints/ABP_SteampunkCat" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset" SILENT=true
+[2026.05.17-13.26.11:196][253]LogSavePackage: Moving output files for package: /Game/Sabertooth/Blueprints/ABP_SteampunkCat
+[2026.05.17-13.26.11:196][253]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/ABP_SteampunkCat7C985ED942024DB9E5F83CA730EA6523.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset'
+[2026.05.17-13.26.11:212][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 257.604 ms (total: 2.19 sec)
+[2026.05.17-13.26.11:467][253]LogContentValidation: Enabled validators:
+[2026.05.17-13.26.11:467][253]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.26.11:467][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.26.11:467][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.26.11:467][253]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.26.11:467][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.26.11:467][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.26.11:467][253]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.26.11:468][253]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.26.11:468][253]AssetCheck: /Game/Sabertooth/Blueprints/ABP_SteampunkCat Validating asset
+[2026.05.17-13.26.11:468][253]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.26.11:468][253]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.26.26:007][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.26.26:213][825]LogFileHelpers: Saving Package: /Game/Sabertooth/Blueprints/ABP_SteampunkCat
+[2026.05.17-13.26.26:213][825]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sabertooth/Blueprints/ABP_SteampunkCat] ([2] browsable assets)...
+[2026.05.17-13.26.26:229][825]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Sabertooth/Blueprints/ABP_SteampunkCat.ABP_SteampunkCat]
+[2026.05.17-13.26.26:229][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/Blueprints/ABP_SteampunkCat]
+[2026.05.17-13.26.26:229][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/Blueprints/ABP_SteampunkCat" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset" SILENT=true
+[2026.05.17-13.26.26:254][825]LogSavePackage: Moving output files for package: /Game/Sabertooth/Blueprints/ABP_SteampunkCat
+[2026.05.17-13.26.26:254][825]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/ABP_SteampunkCat3B59C78246B0EDBD07084DB9307C7ECD.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset'
+[2026.05.17-13.26.26:273][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 266.163 ms (total: 2.45 sec)
+[2026.05.17-13.26.26:531][825]LogContentValidation: Enabled validators:
+[2026.05.17-13.26.26:531][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.26.26:531][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.26.26:531][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.26.26:531][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.26.26:531][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.26.26:531][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.26.26:531][825]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.26.26:531][825]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.26.26:531][825]AssetCheck: /Game/Sabertooth/Blueprints/ABP_SteampunkCat Validating asset
+[2026.05.17-13.26.26:531][825]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.26.26:532][825]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.26.26:956][839]LogBlueprint: Compiling Blueprint '/Game/Sabertooth/Blueprints/ABP_SteampunkCat.ABP_SteampunkCat'
+[2026.05.17-13.26.27:123][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.05.17-13.26.29:154][927]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.17-13.26.29:160][927]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.17-13.26.29:162][927]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.17-13.26.29:163][927]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.156 ms (total: 5.473 ms)
+[2026.05.17-13.26.29:163][927]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.05.17-13.26.29:163][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.17-13.26.29:163][927]LogPlayLevel: Display: Creating online subsystem for client :Context_19
+[2026.05.17-13.26.29:168][927]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.05.17-13.26.29:208][928]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.17-13.26.29:219][928]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.17-13.26.29:221][928]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.279 ms (total: 6.690 ms)
+[2026.05.17-13.26.29:221][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013077s)
+[2026.05.17-13.26.29:222][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.013143s)
+[2026.05.17-13.26.29:275][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.05.17-13.26.29:280][928]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.17-13.26.29:282][928]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.17-13.26.29:282][928]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.17-13.26.29:282][928]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.17-13.26.29:283][928]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.17-13.26.29:285][928]LogWorldPartition: Display: WorldPartition initialize took 2.834 ms (total: 150.406 ms)
+[2026.05.17-13.26.29:285][928]LogPlayLevel: PIE: World Init took: (0.005635s)
+[2026.05.17-13.26.29:285][928]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.05.17-13.26.29:286][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.17-13.26.29:286][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.17-13.26.29:286][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.17-13.26.29:286][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.17-13.26.29:286][928]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.17-13.26.29:286][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.17-13.26.29:286][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.17-13.26.29:286][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.17-13.26.29:286][928]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.17-13.26.29:286][928]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.17-13.26.29:286][928]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.17-13.26.29:290][928]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.17-13.26.29:297][928]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='FxSound Speakers (FxSound Audio Enhancer)'
+[2026.05.17-13.26.29:298][928]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.26.29:299][928]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='FxSound Speakers (FxSound Audio Enhancer)'
+[2026.05.17-13.26.29:300][928]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.26.29:300][928]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.05.17-13.26.29:303][928]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.26.29:314][928]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.17-13.26.29:314][928]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.17-13.26.29:314][928]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.17-13.26.29:314][928]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.17-13.26.29:315][928]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.05.17-13.26.29:315][928]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.05.17-13.26.29:321][928]LogInit: FAudioDevice initialized with ID 4.
+[2026.05.17-13.26.29:321][928]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.05.17-13.26.29:321][928]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.05.17-13.26.29:321][928]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ThirdPerson'.
+[2026.05.17-13.26.29:321][928]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.05.17-13.26.29:326][928]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.17-13.26.29:330][928]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.05.17-20.26.29
+[2026.05.17-13.26.29:330][928]LogWorld: Bringing up level for play took: 0.003536
+[2026.05.17-13.26.29:334][928]PIE: Server logged in
+[2026.05.17-13.26.29:336][928]PIE: Play in editor total start time 0.175 seconds.
+[2026.05.17-13.26.32:814][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.17-13.26.32:814][124]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.17-13.26.32:814][124]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.26.32:815][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.26.32:815][124]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.17-13.26.32:818][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.17-13.26.32:826][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.26.32:880][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.17-13.26.32:880][124]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.05.17-13.26.32:882][124]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.05.17-13.26.32:886][124]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.05.17-13.26.32:900][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.05.17-13.26.32:962][125]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.05.17-13.29.34:323][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2026.05.17-13.29.34:325][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.055
+[2026.05.17-13.29.34:327][757]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2026.05.17-13.29.34:327][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2026.05.17-13.29.34:345][757]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1
+[2026.05.17-13.29.34:346][757]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/BP_ThirdPersonGameMode_Auto17BBE1900464F99673B4854B821997AAC.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1.uasset'
+[2026.05.17-13.29.34:346][757]LogFileHelpers: Auto-saving content packages took 0.021
+[2026.05.17-13.31.22:400][ 82]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1696.016724
+[2026.05.17-13.31.23:734][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.17-13.31.23:734][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1697.017334, Update Interval: 333.573425
+[2026.05.17-13.37.42:120][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2075.738770
+[2026.05.17-13.37.43:453][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.17-13.37.43:453][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2076.738525, Update Interval: 311.479218
+[2026.05.17-13.38.51:490][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.05.17-13.38.52:518][474]LogSlate: Window 'Save Content' being destroyed
+[2026.05.17-13.38.52:537][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.38.52:788][474]LogFileHelpers: Saving Package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.05.17-13.38.52:789][474]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2026.05.17-13.38.52:789][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2026.05.17-13.38.52:808][474]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.05.17-13.38.52:808][474]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/BP_ThirdPersonGameMode109084E34C1283932CED6399994C6762.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2026.05.17-13.38.52:829][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 292.143 ms (total: 2.74 sec)
+[2026.05.17-13.38.53:097][474]LogContentValidation: Enabled validators:
+[2026.05.17-13.38.53:097][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.38.53:097][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.38.53:097][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.38.53:097][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.38.53:097][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.38.53:097][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.38.53:097][474]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.38.53:097][474]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.38.53:097][474]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2026.05.17-13.38.53:097][474]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.38.53:097][474]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.38.53:129][474]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.17-13.38.56:150][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.05.17-13.38.56:894][626]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.05.17-13.38.56:914][626]LogSlate: Took 0.018067 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.05.17-13.39.01:548][626]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.17-13.39.02:119][626]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.39.02:119][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.39.02:132][626]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.39.02:132][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.39.02:145][626]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.39.02:145][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.39.02:208][626]LogSlate: Window 'BP_CombatSabertooth' being destroyed
+[2026.05.17-13.39.02:225][626]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.39.02:225][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.39.02:269][626]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sabertooth/Blueprints/BP_SteampunkCat.BP_SteampunkCat
+	Asset Type: Blueprint
+[2026.05.17-13.39.03:059][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.17-13.39.03:248][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.05.17-13.39.03:300][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.17-13.39.03:352][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.05.17-13.39.03:416][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.05.17-13.39.03:578][626]LogAutomationController: Ignoring very large delta of 7.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.17-13.39.03:582][626]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.17-13.39.08:467][893]LogStreaming: Display: FlushAsyncLoading(576): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.17-13.39.08:473][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sabertooth/Blueprints/GM_SteampunkCat.GM_SteampunkCat
+[2026.05.17-13.39.09:432][893]LoadErrors: Warning: While trying to load package /Game/Sabertooth/Blueprints/GM_SteampunkCat, a dependent package /Game/Sabertooth/Blueprints/BP_SteampunkCat was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Sabertooth/Blueprints/BP_SteampunkCat has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/BP_SteampunkCat'. Perhaps it has been deleted or was not synced?
+
+[2026.05.17-13.39.17:161][317]LogSlate: Window 'GM_SteampunkCat' being destroyed
+[2026.05.17-13.39.17:173][317]LogSlate: Window 'GM_SteampunkCat' being destroyed
+[2026.05.17-13.39.17:177][317]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.39.17:177][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.39.17:296][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.05.17-13.39.22:932][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.05.17-13.39.26:216][621]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.17-13.39.26:303][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.05.17-13.39.26:360][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2026.05.17-13.39.26:414][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.05.17-13.39.26:441][621]LogAutomationController: Ignoring very large delta of 3.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.17-13.39.26:445][621]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.17-13.39.29:148][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.39.29:340][768]LogFileHelpers: Saving Package: /Game/Sabertooth/Blueprints/ABP_SteampunkCat
+[2026.05.17-13.39.29:341][768]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sabertooth/Blueprints/ABP_SteampunkCat] ([2] browsable assets)...
+[2026.05.17-13.39.29:362][768]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Sabertooth/Blueprints/ABP_SteampunkCat.ABP_SteampunkCat]
+[2026.05.17-13.39.29:362][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sabertooth/Blueprints/ABP_SteampunkCat]
+[2026.05.17-13.39.29:362][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sabertooth/Blueprints/ABP_SteampunkCat" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset" SILENT=true
+[2026.05.17-13.39.29:387][768]LogSavePackage: Moving output files for package: /Game/Sabertooth/Blueprints/ABP_SteampunkCat
+[2026.05.17-13.39.29:388][768]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/ABP_SteampunkCat2F1A7ECC47FD58C8D525FAB3B011C6C0.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset'
+[2026.05.17-13.39.29:406][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 257.296 ms (total: 3.00 sec)
+[2026.05.17-13.39.29:657][768]LogContentValidation: Enabled validators:
+[2026.05.17-13.39.29:657][768]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.39.29:657][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.39.29:657][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.39.29:657][768]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.39.29:657][768]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.39.29:657][768]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.39.29:657][768]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.39.29:657][768]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.39.29:657][768]AssetCheck: /Game/Sabertooth/Blueprints/ABP_SteampunkCat Validating asset
+[2026.05.17-13.39.29:658][768]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.39.29:658][768]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.39.38:557][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.05.17-13.39.38:563][263]LogBlueprint: Compiling Blueprint '/Game/Characters/Sabertooth/ABP_SteampunkCat.ABP_SteampunkCat'
+[2026.05.17-13.39.41:966][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.39.42:165][436]LogFileHelpers: Saving Package: /Game/Characters/Sabertooth/ABP_SteampunkCat
+[2026.05.17-13.39.42:165][436]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Sabertooth/ABP_SteampunkCat] ([2] browsable assets)...
+[2026.05.17-13.39.42:176][436]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Sabertooth/ABP_SteampunkCat.ABP_SteampunkCat]
+[2026.05.17-13.39.42:176][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Sabertooth/ABP_SteampunkCat]
+[2026.05.17-13.39.42:177][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Sabertooth/ABP_SteampunkCat" FILE="../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/ABP_SteampunkCat.uasset" SILENT=true
+[2026.05.17-13.39.42:202][436]LogSavePackage: Moving output files for package: /Game/Characters/Sabertooth/ABP_SteampunkCat
+[2026.05.17-13.39.42:202][436]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/ABP_SteampunkCat2AFDB4874CA8E8ABD200999B2DC76AE4.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/ABP_SteampunkCat.uasset'
+[2026.05.17-13.39.42:228][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 261.586 ms (total: 3.26 sec)
+[2026.05.17-13.39.42:534][436]LogContentValidation: Enabled validators:
+[2026.05.17-13.39.42:534][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.39.42:534][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.39.42:534][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.39.42:534][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.39.42:534][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.39.42:534][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.39.42:534][436]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.39.42:534][436]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.39.42:535][436]AssetCheck: /Game/Characters/Sabertooth/ABP_SteampunkCat Validating asset
+[2026.05.17-13.39.42:535][436]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.39.42:535][436]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.39.42:575][436]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.17-13.39.58:902][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.05.17-13.39.59:646][325]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 31325
+[2026.05.17-13.39.59:646][325]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.05.17-13.39.59:647][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.40.04:478][325]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.17-13.40.04:844][325]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sabertooth/Blueprints/ABP_SteampunkCat.ABP_SteampunkCat
+	Asset Type: AnimBlueprint
+[2026.05.17-13.40.06:345][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.17-13.40.06:399][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.05.17-13.40.06:450][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.05.17-13.40.06:480][325]LogAutomationController: Ignoring very large delta of 7.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.17-13.40.19:821][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.40.20:013][ 56]LogFileHelpers: Saving Package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.40.20:013][ 56]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Sabertooth/BP_CombatSabertooth] ([2] browsable assets)...
+[2026.05.17-13.40.20:013][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Sabertooth/BP_CombatSabertooth]
+[2026.05.17-13.40.20:045][ 56]LogSavePackage: Moving output files for package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.40.20:045][ 56]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/BP_CombatSabertoothA586AD3F46F37DE24AA94AB3F8200BFC.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/BP_CombatSabertooth.uasset'
+[2026.05.17-13.40.20:064][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.236 ms (total: 3.51 sec)
+[2026.05.17-13.40.20:313][ 56]LogContentValidation: Enabled validators:
+[2026.05.17-13.40.20:313][ 56]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.40.20:313][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.40.20:313][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.40.20:313][ 56]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.40.20:314][ 56]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.40.20:314][ 56]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.40.20:314][ 56]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.40.20:314][ 56]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.40.20:314][ 56]AssetCheck: /Game/Characters/Sabertooth/BP_CombatSabertooth Validating asset
+[2026.05.17-13.40.20:314][ 56]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.40.20:314][ 56]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.40.22:243][132]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.17-13.40.22:275][132]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.17-13.40.22:297][133]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.17-13.40.31:155][644]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2026.05.17-13.40.31:162][644]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.17-13.40.35:440][864]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth
+[2026.05.17-13.40.42:348][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.40.42:544][ 45]LogFileHelpers: Saving Package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.40.42:544][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Sabertooth/BP_CombatSabertooth] ([2] browsable assets)...
+[2026.05.17-13.40.42:562][ 45]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth]
+[2026.05.17-13.40.42:562][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Sabertooth/BP_CombatSabertooth]
+[2026.05.17-13.40.42:594][ 45]LogSavePackage: Moving output files for package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.40.42:594][ 45]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/BP_CombatSabertoothFAF64179406CCB1C81D751A476A2FE9C.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/BP_CombatSabertooth.uasset'
+[2026.05.17-13.40.42:612][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 262.759 ms (total: 3.77 sec)
+[2026.05.17-13.40.42:864][ 45]LogContentValidation: Enabled validators:
+[2026.05.17-13.40.42:864][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.40.42:864][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.40.42:864][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.40.42:864][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.40.42:864][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.40.42:864][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.40.42:864][ 45]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.40.42:866][ 45]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.40.42:866][ 45]AssetCheck: /Game/Characters/Sabertooth/BP_CombatSabertooth Validating asset
+[2026.05.17-13.40.42:866][ 45]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.40.42:866][ 45]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.40.43:898][ 82]LogBlueprint: Compiling Blueprint '/Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth'
+[2026.05.17-13.40.44:156][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.05.17-13.40.45:013][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-13.40.45:206][101]LogFileHelpers: Saving Package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.40.45:207][101]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Sabertooth/BP_CombatSabertooth] ([2] browsable assets)...
+[2026.05.17-13.40.45:224][101]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Sabertooth/BP_CombatSabertooth.BP_CombatSabertooth]
+[2026.05.17-13.40.45:224][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Sabertooth/BP_CombatSabertooth]
+[2026.05.17-13.40.45:256][101]LogSavePackage: Moving output files for package: /Game/Characters/Sabertooth/BP_CombatSabertooth
+[2026.05.17-13.40.45:256][101]LogSavePackage: Moving '../../../../../Unreal Projects/CombatGAS/CombatGAS/Saved/BP_CombatSabertooth97BE76E049F831A45C83CDAAEA9D636F.tmp' to '../../../../../Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/BP_CombatSabertooth.uasset'
+[2026.05.17-13.40.45:273][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 259.710 ms (total: 4.03 sec)
+[2026.05.17-13.40.45:524][101]LogContentValidation: Enabled validators:
+[2026.05.17-13.40.45:524][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-13.40.45:524][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-13.40.45:524][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-13.40.45:524][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-13.40.45:524][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-13.40.45:524][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-13.40.45:524][101]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.17-13.40.45:524][101]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.17-13.40.45:524][101]AssetCheck: /Game/Characters/Sabertooth/BP_CombatSabertooth Validating asset
+[2026.05.17-13.40.45:524][101]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.17-13.40.45:524][101]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.17-13.40.48:968][241]LogSlate: Window 'BP_CombatSabertooth' being destroyed
+[2026.05.17-13.40.48:987][241]LogSlate: Window 'BP_CombatSabertooth' being destroyed
+[2026.05.17-13.40.48:991][241]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.40.48:991][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.40.49:104][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.05.17-13.40.50:187][303]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.17-13.40.50:194][303]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.17-13.40.50:194][303]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.17-13.40.50:194][303]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.039 ms (total: 6.512 ms)
+[2026.05.17-13.40.50:194][303]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.05.17-13.40.50:196][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.17-13.40.50:233][303]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2026.05.17-13.40.50:237][303]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.05.17-13.40.50:275][304]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.17-13.40.50:285][304]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.17-13.40.50:287][304]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.207 ms (total: 8.897 ms)
+[2026.05.17-13.40.50:287][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012523s)
+[2026.05.17-13.40.50:287][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012593s)
+[2026.05.17-13.40.50:338][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.05.17-13.40.50:340][304]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.17-13.40.50:344][304]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.17-13.40.50:344][304]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.17-13.40.50:344][304]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.17-13.40.50:344][304]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.17-13.40.50:347][304]LogWorldPartition: Display: WorldPartition initialize took 3.229 ms (total: 153.635 ms)
+[2026.05.17-13.40.50:347][304]LogPlayLevel: PIE: World Init took: (0.006125s)
+[2026.05.17-13.40.50:347][304]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.05.17-13.40.50:347][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.17-13.40.50:347][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.17-13.40.50:347][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.17-13.40.50:347][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.17-13.40.50:347][304]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.17-13.40.50:347][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.17-13.40.50:347][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.17-13.40.50:347][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.17-13.40.50:347][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.17-13.40.50:347][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.17-13.40.50:347][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.17-13.40.50:352][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.17-13.40.50:358][304]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='FxSound Speakers (FxSound Audio Enhancer)'
+[2026.05.17-13.40.50:360][304]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.40.50:360][304]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='FxSound Speakers (FxSound Audio Enhancer)'
+[2026.05.17-13.40.50:362][304]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.40.50:364][304]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Realtek(R) Audio)'
+[2026.05.17-13.40.50:365][304]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.05.17-13.40.50:377][304]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.17-13.40.50:377][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.17-13.40.50:377][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.17-13.40.50:378][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.17-13.40.50:378][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.05.17-13.40.50:378][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.05.17-13.40.50:385][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.05.17-13.40.50:385][304]LogInit: FAudioDevice initialized with ID 5.
+[2026.05.17-13.40.50:385][304]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ThirdPerson'.
+[2026.05.17-13.40.50:385][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.05.17-13.40.50:385][304]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.05.17-13.40.50:390][304]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.17-13.40.50:395][304]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.05.17-20.40.50
+[2026.05.17-13.40.50:395][304]LogWorld: Bringing up level for play took: 0.003853
+[2026.05.17-13.40.50:399][304]PIE: Server logged in
+[2026.05.17-13.40.50:402][304]PIE: Play in editor total start time 0.208 seconds.
+[2026.05.17-13.40.51:924][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.17-13.40.51:924][389]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.17-13.40.51:924][389]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.17-13.40.51:925][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.40.51:925][389]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.17-13.40.51:928][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.17-13.40.51:936][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.17-13.40.51:987][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.17-13.40.51:988][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.05.17-13.40.51:988][389]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.05.17-13.40.51:992][389]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.05.17-13.40.52:004][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2026.05.17-13.40.52:066][390]LogPlayLevel: Display: Destroying online subsystem :Context_22
