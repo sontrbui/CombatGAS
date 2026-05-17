@@ -1,0 +1,254 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Git LFS Configuration for Unreal Engine 5 Projects
+# This file ensures large binary files are tracked with Git LFS instead of being stored in Git history
+# Install Git LFS first: https://git-lfs.github.com/
+
+# ============================================
+# UNREAL ENGINE BINARY FILES
+# ============================================
+
+# Unreal Engine executable and binaries
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+
+# Unreal Engine project files
+*.uproject filter=lfs diff=lfs merge=lfs -text
+*.uplugin filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# 3D ASSETS & MODELS
+# ============================================
+
+# FBX files (3D models)
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.gltf filter=lfs diff=lfs merge=lfs -text
+*.glb filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+
+# 3D Model interchange formats
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.blend1 filter=lfs diff=lfs merge=lfs -text
+*.max filter=lfs diff=lfs merge=lfs -text
+*.mb filter=lfs diff=lfs merge=lfs -text
+*.ma filter=lfs diff=lfs merge=lfs -text
+*.c4d filter=lfs diff=lfs merge=lfs -text
+*.dae filter=lfs diff=lfs merge=lfs -text
+*.3ds filter=lfs diff=lfs merge=lfs -text
+*.ase filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# TEXTURES & IMAGES
+# ============================================
+
+# High-resolution textures
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.psb filter=lfs diff=lfs merge=lfs -text
+
+# PBR texture maps
+*.pxr filter=lfs diff=lfs merge=lfs -text
+*.hdr filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# AUDIO FILES
+# ============================================
+
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.flac filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+*.aiff filter=lfs diff=lfs merge=lfs -text
+*.aif filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# VIDEO FILES
+# ============================================
+
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+*.mkv filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
+*.flv filter=lfs diff=lfs merge=lfs -text
+*.m4v filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# ANIMATION FILES
+# ============================================
+
+*.anim filter=lfs diff=lfs merge=lfs -text
+*.fbx_animation filter=lfs diff=lfs merge=lfs -text
+*.motionbuilder filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# PARTICLE & EFFECTS
+# ============================================
+
+*.psx filter=lfs diff=lfs merge=lfs -text
+*.ps filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# DOCUMENTATION & REFERENCE
+# ============================================
+
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.doc filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# COMPILED & BUILD OUTPUT
+# ============================================
+
+*.lib filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.o filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# PLATFORM SPECIFIC BINARIES
+# ============================================
+
+# Windows
+*.pdb filter=lfs diff=lfs merge=lfs -text
+*.exp filter=lfs diff=lfs merge=lfs -text
+
+# macOS
+*.dSYM filter=lfs diff=lfs merge=lfs -text
+
+# Linux/Unix
+*.elf filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# UNREAL COOKED/PACKAGED CONTENT
+# ============================================
+
+Binaries/** filter=lfs diff=lfs merge=lfs -text
+Intermediate/** filter=lfs diff=lfs merge=lfs -text
+DerivedDataCache/** filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# TEXT FILES (DO NOT USE LFS - Keep in Git)
+# ============================================
+
+*.c diff=cpp
+*.cpp diff=cpp
+*.h diff=cpp
+*.hpp diff=cpp
+*.cs diff=csharp
+*.java diff=java
+*.py diff=python
+*.js diff=javascript
+*.ts diff=typescript
+*.json diff=json
+*.yaml diff=yaml
+*.yml diff=yaml
+*.xml diff=xml
+*.html diff=html
+*.css diff=css
+*.md diff=markdown
+*.txt diff=text
+*.ini diff=text
+*.uplugin diff=json
+*.uproject diff=json
+
+# Git files
+.gitignore merge=union
+.gitattributes merge=union
+
+# ============================================
+# LINE ENDING HANDLING
+# ============================================
+
+# Ensure consistent line endings for text files
+*.c text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+*.cs text eol=lf
+*.java text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.xml text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.ini text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# ============================================
+# UNREAL SPECIFIC TEXT FILES
+# ============================================
+
+*.uplugin text eol=lf diff=json merge=union
+*.uproject text eol=lf diff=json merge=union
+
+# Source code
+Source/** text eol=lf diff=cpp merge=union
+Plugins/** text eol=lf diff=cpp merge=union
+
+# Configuration
+Config/** text eol=lf diff=text merge=union
+
+# ============================================
+# PLUGIN & DEPENDENCIES
+# ============================================
+
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.tar filter=lfs diff=lfs merge=lfs -text
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# UNREAL BUILD OUTPUT (Large files)
+# ============================================
+
+*.ue4 filter=lfs diff=lfs merge=lfs -text
+*.pak filter=lfs diff=lfs merge=lfs -text
+*.sig filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# CATCH-ALL FOR COMMON GAME ASSET FORMATS
+# ============================================
+
+# Polycount/Generic 3D formats
+*.raw filter=lfs diff=lfs merge=lfs -text
+*.ply filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
+
+# Material files
+*.ma filter=lfs diff=lfs merge=lfs -text
+*.mat filter=lfs diff=lfs merge=lfs -text
+
+# ============================================
+# NOTES
+# ============================================
+
+# If you need to track additional file types with LFS, add them in the format:
+# *.extension filter=lfs diff=lfs merge=lfs -text
+#
+# After modifying this file, run:
+# git lfs install
+# git add .gitattributes
+# git commit -m "Configure Git LFS for Unreal Engine 5"
+#
+# To migrate existing large files to LFS:
+# git lfs migrate import --include="*.uasset,*.umap" --everything
