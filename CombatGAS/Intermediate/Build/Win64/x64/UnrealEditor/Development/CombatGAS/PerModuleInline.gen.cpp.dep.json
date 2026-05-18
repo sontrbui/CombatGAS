@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\combatgas\\combatgas\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\combatgas\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\combatgas\\combatgas\\intermediate\\build\\win64\\x64\\combatgaseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\combatgas\\combatgas\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\combatgas\\definitions.combatgas.h",
+            "e:\\ue\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

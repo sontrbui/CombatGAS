@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CombatGAS.gen.cpp.obj": [
+			"BaseAttributeSet.gen.cpp.obj",
+			"CombatCharacterBase.gen.cpp.obj",
+			"CombatGAS.init.gen.cpp.obj"
+		]
+	}
+}
