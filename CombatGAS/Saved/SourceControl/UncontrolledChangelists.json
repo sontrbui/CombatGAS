@@ -30,6 +30,8 @@
 				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Characters/Sabertooth/ABP_SteampunkCat.uasset",
 				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/GameplayAbilities/Abilities/GA_Dash.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Input/Actions/IA_Dash.uasset",
+				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Input/IMC_Default.uasset",
 				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/ABP_SteampunkCat.uasset",
 				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/BP_SteampunkCat.uasset",
 				"E:/Unreal Projects/CombatGAS/CombatGAS/Content/Sabertooth/Blueprints/GM_SteampunkCat.uasset"
