@@ -46,16 +46,16 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/**/Binaries/*
+/CombatGAS/Binaries/*
+/CombatGAS/Plugins/**/Binaries/*
 
 # Builds
-Build/*
+/CombatGAS/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+!/CombatGAS/Build/*/
+/CombatGAS/Build/*/**
+!/CombatGAS/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
@@ -67,8 +67,8 @@ Build/*/**
 /CombatGAS/Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/**/Intermediate/*
+/CombatGAS/Intermediate/*
+/CombatGAS/Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
