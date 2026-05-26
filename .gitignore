@@ -76,3 +76,5 @@ DerivedDataCache/*
 /CombatGAS/Content/Sabertooth
 /CombatGAS/Saved/Logs
 /CombatGAS/Content/NiagaraExamples
+/CombatGAS/Config/DefaultEditor.ini
+/CombatGAS/Config/DefaultEngine.ini
