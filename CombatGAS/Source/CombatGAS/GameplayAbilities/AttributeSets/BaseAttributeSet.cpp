@@ -25,8 +25,6 @@ void UBaseAttributeSet::GetLifetimeReplicatedProps(TArray<class FLifetimePropert
 
 void UBaseAttributeSet::PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue)
 {
-	Super::PreAttributeChange(Attribute, NewValue);
-	
 	// clamp attribute
 	if (Attribute == GetHealthAttribute())
 	{
@@ -36,6 +34,7 @@ void UBaseAttributeSet::PreAttributeChange(const FGameplayAttribute& Attribute, 
 	{
 		NewValue = FMath::Clamp(NewValue, 0.f, GetMaxStamina());
 	}
+	Super::PreAttributeChange(Attribute, NewValue);
 }
 
 void UBaseAttributeSet::PostGameplayEffectExecute(const struct FGameplayEffectModCallbackData& Data)
