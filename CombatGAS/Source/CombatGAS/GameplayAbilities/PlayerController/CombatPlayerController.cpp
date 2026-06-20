@@ -38,12 +38,9 @@ void ACombatPlayerController::OnToggleWidgetAction()
 			{
 				UE_LOG(LogTemp, Log, TEXT("Widget Create"));
 				QuitGameWidgetInstance = NewWidget;
-				
 				QuitGameWidgetInstance->AddToViewport();
-				QuitGameWidgetInstance->SetDesiredSizeInViewport(NewWidget->GetDesiredSize());
-				
 				SetShowMouseCursor(true);
-				
+				SetInputMode(FInputModeUIOnly());
 			}
 		}
 	}
@@ -51,5 +48,6 @@ void ACombatPlayerController::OnToggleWidgetAction()
 	{
 		QuitGameWidgetInstance->SetVisibility(ESlateVisibility::Visible);
 		SetShowMouseCursor(true);
+		SetInputMode(FInputModeUIOnly());
 	}
 }

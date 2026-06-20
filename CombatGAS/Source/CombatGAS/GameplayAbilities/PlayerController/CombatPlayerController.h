@@ -17,9 +17,6 @@ class COMBATGAS_API ACombatPlayerController : public APlayerController
 	GENERATED_BODY()
 	
 public:
-	UPROPERTY()
-	TObjectPtr<UCombatUserWidgetBase> QuitGameWidgetInstance;
-	
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category="Quit Game UI Class")
 	TSubclassOf<UCombatUserWidgetBase> QuitGameWidget;
 	
@@ -31,6 +28,9 @@ public:
 	virtual void SetupInputComponent() override;
 	
 private:
+	UPROPERTY()
+	TObjectPtr<UCombatUserWidgetBase> QuitGameWidgetInstance;
+	
 	UFUNCTION()
 	void OnToggleWidgetAction();
 };

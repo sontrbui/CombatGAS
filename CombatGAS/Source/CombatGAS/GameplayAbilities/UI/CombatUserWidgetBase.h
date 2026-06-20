@@ -14,20 +14,14 @@ UCLASS()
 class COMBATGAS_API UCombatUserWidgetBase : public UUserWidget
 {
 	GENERATED_BODY()
-	
-	UFUNCTION()
-	void CloseButtonClicked();
-	
-	UFUNCTION()
-	void YesButtonClicked();
-	
-	UFUNCTION()
-	void NoButtonClicked();
-
 
 public:
 	
 	virtual void NativeConstruct() override;
+	
+	virtual FReply NativeOnKeyDown(const FGeometry& InGeometry, const FKeyEvent& InKeyEvent) override;
+	
+	virtual FReply NativeOnMouseButtonDown(const FGeometry& InGeometry, const FPointerEvent& InMouseEvent) override;
 	
 	UPROPERTY(meta=(BindWidget))
 	TObjectPtr<UButton> CloseButton;
@@ -37,4 +31,17 @@ public:
 	
 	UPROPERTY(meta=(BindWidget))
 	TObjectPtr<UButton> NoButton;
+	
+private:
+	UFUNCTION()
+	void CloseButtonClicked();
+	
+	UFUNCTION()
+	void YesButtonClicked();
+	
+	UFUNCTION()
+	void NoButtonClicked();
+	
+	UFUNCTION()
+	void CloseWidget();
 };
