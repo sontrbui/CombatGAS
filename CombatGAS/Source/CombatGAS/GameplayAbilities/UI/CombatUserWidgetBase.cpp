@@ -25,6 +25,12 @@ void UCombatUserWidgetBase::NativeConstruct()
 	
 	SetIsFocusable(true);
 	SetKeyboardFocus();
+	
+	if (APlayerController* PC = GetOwningPlayer())
+	{
+		PC->bShowMouseCursor = true;
+		PC->SetInputMode(FInputModeUIOnly());
+	}
 }
 
 void UCombatUserWidgetBase::CloseWidget()
@@ -35,6 +41,8 @@ void UCombatUserWidgetBase::CloseWidget()
 		PC->bShowMouseCursor = false;
 		PC->SetInputMode(FInputModeGameOnly());
 	}
+
+	OnWidgetClosed.Broadcast();
 }
 
 void UCombatUserWidgetBase::CloseButtonClicked()

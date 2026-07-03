@@ -7,15 +7,20 @@
 #include "Components/Button.h"
 #include "CombatUserWidgetBase.generated.h"
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnCombatWidgetClosed);
+
 /**
- * 
+ *
  */
-UCLASS()
+UCLASS(BlueprintType, Blueprintable)
 class COMBATGAS_API UCombatUserWidgetBase : public UUserWidget
 {
 	GENERATED_BODY()
 
 public:
+	
+	UPROPERTY(BlueprintAssignable, Category = "Combat|Widget")
+	FOnCombatWidgetClosed OnWidgetClosed;
 	
 	virtual void NativeConstruct() override;
 	
